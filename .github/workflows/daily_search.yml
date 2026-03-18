@@ -2,14 +2,7 @@ name: Daily Research Search
 
 on:
   schedule:
-    # 18:00 UTC = 19:00 CET (winter) / 20:00 CEST (summer)
-    # To always hit 19:00 CET exactly, use 18:00 UTC in winter.
-    # In summer (CEST = UTC+2), run at 17:00 UTC.
-    # Simple solution: run both, the script is idempotent.
-    - cron: '0 18 * 10-3 *'   # Oct–Mar (CET = UTC+1)
-    - cron: '0 17 * 4-9 *'    # Apr–Sep (CEST = UTC+2)
-
-  # Allow manual trigger from GitHub Actions tab
+    - cron: '0 18 * * *'
   workflow_dispatch:
     inputs:
       search_days:
