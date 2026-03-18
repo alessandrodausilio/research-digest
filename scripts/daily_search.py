@@ -207,8 +207,10 @@ def generate_rating_html(articles):
         "THRESHOLD": RATING_THRESHOLD,
         "TOTAL":     len(articles),
     })
-    articles_json = json.dumps(articles, ensure_ascii=False).replace("</", "<\\/")
-
+    articles_json = (json.dumps(articles, ensure_ascii=False)
+        .replace("</", "<\\/")
+        .replace("\u2028", "\\u2028")
+        .replace("\u2029", "\\u2029"))
     css = (
         "* { box-sizing: border-box; margin: 0; padding: 0; }\n"
         ":root {\n"
