@@ -386,8 +386,7 @@ async function submitRatings() {{
     );
     
     if (resp.ok) {{
-      status.innerHTML = '✅ Ratings saved! Articles rated ≥{RATING_THRESHOLD} will appear in Monday\\'s digest.';      btn.textContent = 'Saved ✓';
-    }} else {{
+      status.innerHTML = "✅ Ratings saved! Articles rated ≥{RATING_THRESHOLD} will appear in Monday's digest.";    }} else {{
       const err = await resp.json();
       status.textContent = `Error: ${{err.message}}`;
       btn.disabled = false;
