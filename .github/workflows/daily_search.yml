@@ -13,7 +13,9 @@ on:
 jobs:
   daily-search:
     runs-on: ubuntu-latest
-
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+      
     permissions:
       contents: write   # needed to commit rating page and articles JSON
 
@@ -36,3 +38,4 @@ jobs:
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
         run: python scripts/daily_search.py
+    
