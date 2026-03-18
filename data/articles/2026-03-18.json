@@ -95,6 +95,23 @@
     ]
   },
   {
+    "title": "Monoaminergic Modulation of the Relation Between Motor Cortical Activity and Grip Force.",
+    "abstract": "Our motor system can accurately control movement within both very low and very high force ranges, despite working through noisy cortical neurons, each with individually limited dynamic range. The visual system has peripheral gain mechanisms whereby neurons in the CNS see only a small fraction of the enormous range of luminance in the visual scene encountered throughout the day. The motor system might use an analogous system. One such mechanism could be mediated through monoaminergic input to the spinal cord and its modulation of the gain of motoneurons through its effect on persistent inward currents (PICs). To test this possibility, we measured cortical activity of three monkeys during a power grasp task before and after giving them systemic serotonin agonist or antagonist drugs. We hypothesized that the drugs would alter the effect of serotonin on the PICs in motoneurons, thereby changing the relation between cortical activity and motor output. In two monkeys, this was largely the case, although in two conditions the results were not statistically significant. However, in a third monkey, the results were opposite our hypothesis. These conflicting results raise further questions as to the roles monoamines may play in regulating motor excitability to maintain accurate force control across the wide range needed for grasping movements.",
+    "journal": "Journal of neurophysiology",
+    "year": "2026",
+    "month": "Mar",
+    "authors": [
+      "Powell R.",
+      "Ma X.",
+      "Bodkin K."
+    ],
+    "doi": "10.1152/jn.00322.2025",
+    "source": "PubMed",
+    "url": "https://doi.org/10.1152/jn.00322.2025",
+    "score": 35,
+    "matched_keywords": []
+  },
+  {
     "title": "The dual diversity crisis in physiology.",
     "abstract": "",
     "journal": "The Journal of physiology",
@@ -108,25 +125,6 @@
     "url": "https://doi.org/10.1113/JP290947",
     "score": 35,
     "matched_keywords": []
-  },
-  {
-    "title": "A Distinct Layer 1 Astrocyte Program Shapes Perisynaptic Structure and Calcium Signaling in Mouse Motor Cortex",
-    "abstract": "Although layer-specific molecular and morphological diversity among cortical astrocytes is increasingly well established, how these distinct states are linked to specialized calcium signaling and maintained in the adult cortex remains unclear. Here, combining super-resolution structural imaging, two-photon calcium imaging, and analysis of public single- cell and spatial transcriptomic resources, we identify Layer 1 (L1) astrocytes in mouse primary motor cortex as a distinct superficial astrocyte program. These cells occupy compact territories yet contain dense synapse associated loop-like structures and display frequent, fast, broadly spreading calcium events that engage a large fraction of the territory. Transcriptomic analyses identify Id1 and Id3 as enriched components of this superficial program. CRISPR-Cas9 deletion of Id1 and Id3 in adult astrocytes selectively disrupts L1 and superficial Layer 2/3 (L2/3) astrocytes, expanding territory size, reducing fine process complexity, and suppressing calcium activity. Thus, adult layer-specific transcriptional programs maintain specialized astrocyte structure and signaling.",
-    "journal": "bioRxiv",
-    "year": "2026",
-    "month": "03",
-    "authors": [
-      "Bhattacharjee, S.",
-      "Yeh, K.-H.",
-      "Wu, P.-Y."
-    ],
-    "doi": "10.64898/2026.03.16.712002",
-    "source": "bioRxiv preprint",
-    "url": "https://doi.org/10.64898/2026.03.16.712002",
-    "matched_keywords": [
-      "motor cortex"
-    ],
-    "score": 23
   },
   {
     "title": "Focal Transcranial Magnetic Stimulation of the Rat Anterior Cingulate Cortex Inhibits Incubation of Opioid Craving after Voluntary Abstinence.",
@@ -280,25 +278,6 @@
     "score": 17
   },
   {
-    "title": "In vivo motor unit decoding and in vitro cellular characterisation of spinal circuits for urination in adult mice",
-    "abstract": "Urinary dysfunction affects billions of individuals worldwide; however, the fundamental cellular and circuit properties that govern perineal motor control remain largely unknown, serving as a functional black box. Here, we describe several methods that, when used in concert, characterise cellular, synaptic, and motor unit properties underlying the control of urination in adult mice. High-density electromyography combined with real-time cystometry were used to study external urethral sphincter (EUS) motor units, which follow a hierarchical (onion skin) recruitment pattern during bladder filling. The transition to the voiding phase is marked by inhibition, followed by synchronised bursts. Furthermore, through concurrent recordings of ischiocavernosus (IC) muscles, the relationship between IC and EUS motor units could be studied to look for shared common inputs that could shed light on circuitry. Whole-cell patch-clamp recordings from retrogradely identified neurons revealed a fundamental biophysical divergence: urinary parasympathetic preganglionic neurons (PPGN) are significantly smaller and more excitable than somatic EUS and IC motoneurons and lack the recurrent excitatory and inhibitory circuits present in both EUS and IC motor pools. Finally, using a novel pressure-clamp preparation, we showed that acute tibial nerve stimulation (a widely used treatment for urinary dysfunction) evokes short-latency inhibition of EUS motor units. Collectively, these methods can be used to delineate patterns of motor unit recruitment, local recurrent microcircuit architecture, and distinct biophysical properties of the perineal motor system, providing mechanistic insights into urinary function.",
-    "journal": "bioRxiv",
-    "year": "2026",
-    "month": "03",
-    "authors": [
-      "Ozyurt, M. G.",
-      "Nascimento, F.",
-      "Pascual-Valdunciel, A."
-    ],
-    "doi": "10.64898/2026.03.13.711618",
-    "source": "bioRxiv preprint",
-    "url": "https://doi.org/10.64898/2026.03.13.711618",
-    "matched_keywords": [
-      "motor control"
-    ],
-    "score": 17
-  },
-  {
     "title": "Peripheral nerve pathway reconnections promote the reorganization of central motor representations.",
     "abstract": "Dexterous hand motor functions are highly flexible and finely controlled by complex neural commands from the motor cortex. However, in patients with brain injuries such as stroke, restoring fine motor control from the perilesional cortex remains extremely challenging. A major obstacle is the absence of appropriate non-human primate models to elucidate the behavioral and neural signatures of hand motor function during recovery following treatments. Here, we present a new non-human primate model that reflects the motor function recovery processes following lesion-induced hand paralysis after contralateral C7 nerve transfer (CC7) surgery, which establishes a new neural pathway from the ipsilateral cortex to control the paralyzed hand. By developing a hand reach-to-pinch task and quantifying finger kinematics, we established systematic, objective profiles of fine motor recovery in human patients and monkey models following CC7 treatment. Furthermore, when considering behavioral aspects, spontaneous recovery of hand motor skills was notably limited in human patients and monkey models, as indicated by the consistently abnormal \"thumb-in-palm\" patterns observed in finger kinematic analysis. However, the CC7 surgery gradually restored the finger kinematic patterns during hand-pinch actions to nearly identical patterns to those of the healthy hand. In addition, the human functional MRI and macaque electrophysiology results revealed, on a neural level, the emergence of a new command area and its spiking-based motor-command refinements specifically for the paralyzed hand in the contralesional M1 and premotor cortex (PMC) after CC7 treatment. Thus, our findings strongly support the notion that modifying peripheral nerve pathways greatly promotes the recovery of dexterous motor function in a paralyzed hand by reconstructing new motor-control neural mechanisms within the ipsilateral healthy motor cortex.",
     "journal": "Science China. Life sciences",
@@ -372,6 +351,25 @@
     "doi": "10.1117/1.NPh.13.2.025001",
     "source": "PubMed",
     "url": "https://doi.org/10.1117/1.NPh.13.2.025001",
+    "score": 12,
+    "matched_keywords": [
+      "motor cortex"
+    ]
+  },
+  {
+    "title": "Evolutionarily conserved neural dynamics across mice, monkeys, and humans.",
+    "abstract": "On evolutionary timescales, brain circuits adapt to support survival in each species' ecological niche. While some anatomical aspects of neural circuitry are conserved across species with distant evolutionary origins, each species also exhibits specific circuit adaptations that enable its behavioral repertoire. It remains unclear whether homologous brain regions leverage analogous neural computations as different species perform common behaviors such as reaching and manipulating objects. Here, we directly assessed conservation of neural computations using intracortical recordings from mouse, monkey, and human motor cortex-a homologous region across many mammals-during motor behaviors crucial for survival. We hypothesized that, despite their phylogenetic distance, rodents and primates produce movements through conserved neural computations implemented by motor cortical population dynamics. Remarkably, we found that movement-related neural dynamics were highly conserved across species, while variations in behavioral output were uniquely captured in neural trajectory geometries. Strikingly, neural dynamics during movement across species were more conserved than those across brain regions in the same human and between motor preparation and execution in the same monkeys. Lastly, through manipulation of neural network models trained to perform reaching movements, we reinforce that conservation of neural dynamics across species likely stems from shared circuit constraints. We thus assert that evolution maintains neural computations across phylogeny even as behavioral repertoires expand.",
+    "journal": "bioRxiv : the preprint server for biology",
+    "year": "2026",
+    "month": "Mar",
+    "authors": [
+      "Codol O.",
+      "Asclipe M.",
+      "Sobinov A."
+    ],
+    "doi": "10.64898/2026.03.06.709637",
+    "source": "PubMed",
+    "url": "https://doi.org/10.64898/2026.03.06.709637",
     "score": 12,
     "matched_keywords": [
       "motor cortex"
