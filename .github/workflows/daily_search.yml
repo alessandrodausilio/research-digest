@@ -1,0 +1,45 @@
+name: Daily Research Search
+
+on:
+  schedule:
+    # 18:00 UTC = 19:00 CET (winter) / 20:00 CEST (summer)
+    # To always hit 19:00 CET exactly, use 18:00 UTC in winter.
+    # In summer (CEST = UTC+2), run at 17:00 UTC.
+    # Simple solution: run both, the script is idempotent.
+    - cron: '0 18 * 10-3 *'   # Oct–Mar (CET = UTC+1)
+    - cron: '0 17 * 4-9 *'    # Apr–Sep (CEST = UTC+2)
+
+  # Allow manual trigger from GitHub Actions tab
+  workflow_dispatch:
+    inputs:
+      search_days:
+        description: 'How many days back to search'
+        required: false
+        default: '1'
+
+jobs:
+  daily-search:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write   # needed to commit rating page and articles JSON
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run daily search
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_PAT: ${{ secrets.GH_PAT }}
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: python scripts/daily_search.py

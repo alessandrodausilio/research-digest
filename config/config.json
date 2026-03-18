@@ -1,0 +1,51 @@
+{
+  "keywords": [
+    "action perception",
+    "auditory-motor",
+    "premotor cortex",
+    "efference copy",
+    "mirror neurons",
+    "motor control",
+    "motor cortex",
+    "motor learning",
+    "motor theory",
+    "music and brain",
+    "sensorimotor communication",
+    "speech perception",
+    "TMS and motor cortex",
+    "TMS and music",
+    "transcranial magnetic stimulation"
+  ],
+  "priority_journals": [
+    "Nature Communications",
+    "Nature Neuroscience",
+    "Neuron",
+    "Science Advances",
+    "Brain",
+    "Current Biology",
+    "PLOS Biology",
+    "PNAS",
+    "Cerebral Cortex",
+    "eLife",
+    "Imaging Neuroscience",
+    "iScience",
+    "Journal of Neurophysiology",
+    "Journal of Physiology",
+    "Journal of Neuroscience",
+    "Trends in Cognitive Sciences",
+    "Trends in Neurosciences",
+    "Nature Reviews Neuroscience"
+  ],
+  "email": "alessandro.dausilio@gmail.com",
+  "github": {
+    "username": "REPLACE_WITH_YOUR_GITHUB_USERNAME",
+    "repo": "REPLACE_WITH_YOUR_REPO_NAME",
+    "pages_url": "https://REPLACE_WITH_YOUR_GITHUB_USERNAME.github.io/REPLACE_WITH_YOUR_REPO_NAME"
+  },
+  "settings": {
+    "daily_candidates": 20,
+    "rating_threshold": 3,
+    "search_days": 1,
+    "timezone": "Europe/Rome"
+  }
+}

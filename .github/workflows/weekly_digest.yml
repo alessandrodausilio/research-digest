@@ -1,0 +1,40 @@
+name: Weekly Digest
+
+on:
+  schedule:
+    # Monday 08:00 UTC = 09:00 CET (winter) / 10:00 CEST (summer)
+    - cron: '0 8 * * 1'   # every Monday at 08:00 UTC
+
+  # Allow manual trigger
+  workflow_dispatch: {}
+
+jobs:
+  weekly-digest:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Generate weekly digest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/weekly_digest.py
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
+        with:
+          folder: docs
