@@ -1,0 +1,356 @@
+[
+  {
+    "title": "Motor cortex somatostatin interneurons adaptively shape the structure of action sequences.",
+    "abstract": "The brain flexibly reorganizes action sequences to optimize behavioral outcomes through reinforcement learning and adaptive motor control. Although the primary motor cortex (M1) is essential for skill learning and dexterous movement, how cortical microcircuits refine the timing and structure of action sequences remains unclear. We show that M1 somatostatin interneurons (SST-Ins) display synchronized, action-locked calcium activity during acquisition of a lever-press task in freely moving mice, in contrast to the sequential activation of pyramidal neurons. Following extended training under a stable task schedule, SST-IN activity was no longer coupled to action execution. However, when task demands were modified to require faster and more temporally constrained action sequences, SST-IN activity redistributed and correlated with trial-by-trial changes in sequences, rather than diminishing. Inhibition of SST-INs disrupted temporal organization and impaired efficient motor execution. These findings highlight the unexpected role of M1 SST-INs in refining motor programs into more efficient and task-specific structures.",
+    "journal": "Nature communications",
+    "year": "2026",
+    "authors": [
+      "Lee J.",
+      "Bariselli S.",
+      "Sitzia G."
+    ],
+    "doi": "10.1038/s41467-026-70353-y",
+    "source": "PubMed",
+    "url": "https://doi.org/10.1038/s41467-026-70353-y",
+    "matched_keywords": [
+      "motor control",
+      "motor cortex"
+    ],
+    "score": 45
+  },
+  {
+    "title": "Proprioceptive integration in motor control.",
+    "abstract": "Muscle vibration alters both perceived limb position and velocity by increasing muscle spindle afferent firing rates. In particular the type Ia afferents are affected, which mainly encode muscle stretch velocity. Predictive frameworks of sensorimotor control, such as Active Inference and Optimal Feedback Control, suggest that velocity signals should inform position estimates. Such a function would predict that errors in perceived limb position and velocity should be correlated, but this prediction remains empirically underexplored. We hypothesised that an online evaluation of the integral of sensed velocity influences the perceived arm position during active movements. Using a virtual reality-based reaching task we investigated how vibration-biased proprioceptive feedback influences voluntary movement control and inference of arm position and movement. Our results suggest that muscle vibration biases perceived movement velocity, with downstream effects on perceived limb position and reflexive corrections of movement speed. We found that (i) antagonist vibration during active movement caused participants to overestimate their movement speed while also slowing down, (ii) movement speed and endpoint errors were correlated, with muscle vibration affecting both in congruent directions and (iii) adjustments in movement speed to muscle vibration are sufficiently fast to be reflexive. Together these findings support the hypothesis that proprioceptive velocity signals are integrated to augment inference of position, consistent with predictive frameworks of sensorimotor control. KEY POINTS: During movement without visual feedback, the central nervous system (CNS) has access to both position- and velocity-based proprioceptive signals, which are used to estimate limb state. Muscle vibration biases the perception of limb position, as seen in the classically observed pattern of biased endpoint errors, through the stimulation of primary (type Ia) muscle spindles, primarily a velocity sensor. We investigated how proprioceptive velocity signals affect position estimation during movement by applying muscle vibration while measuring perceived movement speed, actual movement speed and endpoint errors in a virtual reality (VR)-based reaching task. We show that errors in perceived limb position and velocity are correlated during active movements, consistent with predictive frameworks of sensorimotor control. These findings support the idea that the CNS maintains a self-consistent estimate of limb state across both position and velocity domains.",
+    "journal": "The Journal of physiology",
+    "year": "2026",
+    "authors": [
+      "Mortensen E.",
+      "Christensen M."
+    ],
+    "doi": "10.1113/JP289835",
+    "source": "PubMed",
+    "url": "https://doi.org/10.1113/JP289835",
+    "matched_keywords": [
+      "motor control"
+    ],
+    "score": 43
+  },
+  {
+    "title": "Learning to Move and Plan like the Knight: Sequential Decision Making with a Novel Motor Mapping.",
+    "abstract": "Many skills that humans acquire throughout their lives, such as playing video games or sports, require substantial motor learning and multi-step planning. While both processes are typically studied separately, they are likely to interact during the acquisition of complex motor skills. In this work, we studied this interaction by assessing human performance in a sequential decision-making task that requires the learning of a non-trivial motor mapping. Participants were tasked to move a cursor from start to target locations in a grid world, using a standard keyboard. Notably, the specific keys were arbitrarily mapped to a movement rule resembling the Knight chess piece. In Experiment 1, we showed the learning of this mapping in the absence of planning, led to significant improvements in the task when presented with sequential decisions at a later stage. Computational modeling analysis revealed that such improvements resulted from an increased learning rate about the state transitions of the motor mapping, which also resulted in more flexible planning from trial to trial (less perseveration or habitual responses). In Experiment 2, we showed that incorporating mapping learning into the planning process, allows us to capture (1) differential task improvements for distinct planning horizons and (2) overall lower performance for longer horizons. Additionally, model analysis suggested that participants may limit their search to three steps ahead. We hypothesize that this limitation in planning horizon arises from capacity constraints in working memory, and may be the reason complex skills are often broken down into individual subroutines or components during learning.",
+    "journal": "Computational brain & behavior",
+    "year": "2025",
+    "authors": [
+      "Velázquez-Vargas C.",
+      "Taylor J."
+    ],
+    "doi": "10.1007/s42113-025-00245-9",
+    "source": "PubMed",
+    "url": "https://doi.org/10.1007/s42113-025-00245-9",
+    "matched_keywords": [
+      "motor learning"
+    ],
+    "score": 37
+  },
+  {
+    "title": "Resistance training tempo selectively modulates corticospinal and reticulospinal excitability in humans.",
+    "abstract": "The neural mechanisms underlying resistance training (RT) adaptations remain incompletely understood, particularly the contribution of cortico-reticular and reticulospinal tracts (RSTs), which have rarely been examined in humans. One factor that may critically shape these adaptations is training pace, an overlooked yet physiologically relevant variable, as externally paced and self-paced contractions impose distinct demands on cortical and subcortical motor circuits. This study examined (1) how RT affects RST excitability and (2) whether different types of RT produce distinct changes in descending motor pathway excitability. Thirty healthy participants were randomized to metronome-paced RT (MP-RT), self-paced RT (SP-RT) or control. Cortical and corticospinal excitability were assessed with transcranial magnetic stimulation, while cortico-reticulospinal and RST excitability were measured using the ipsilateral to contralateral motor-evoked potential amplitude ratio (ICAR) and the StartReact effect. Training consisted of dumbbell exercises performed three times weekly for three weeks, with repeated neurophysiological testing. Both RT protocols improved one-repetition maximum and maximal voluntary force (P < 0.001). SP-RT resulted in greater increases in the StartReact effect (P < 0.001), rate of force development (0.0453) and cortico-reticulospinal excitability (ICAR; P = 0.0351), whereas MP-RT elicited larger increases in corticospinal excitability (P = 0.00420) and greater reductions in short-interval intracortical inhibition (P < 0.001). This study provides the first evidence in humans that RT modifies cortico-reticular and RST excitability. Importantly, adaptations were pacing-dependent: SP-RT selectively targets cortico-reticular circuit and RST, whereas MP-RT engaged corticospinal and inhibitory intracortical circuits. This pathway-specific plasticity underscores training modality as critical determinant of neural adaptation, with implications for rehabilitation and performance. KEY POINTS: This study examined the effects of resistance training (RT) on descending motor pathways using transcranial magnetic stimulation and the StartReact protocol. Given the inaccessibility of the reticulospinal tract in humans, its excitability was inferred indirectly via the StartReact effect and ipsilateral to contralateral MEP amplitude ratio (ICAR), offering novel insight into cortico-reticulospinal modulation. Both metronome-paced and self-paced RT increased muscle strength but induced distinct neural adaptations. Self-paced RT engaged cortico-reticular and reticulospinal pathways, as indicated by elevated ICAR and StartReact effect values, while metronome-paced RT increased corticospinal excitability and reduced intracortical inhibition. These findings demonstrate, for the first time in humans, that RT pacing can differentially modulate corticospinal and reticulospinal excitability, two parallel descending motor systems with distinct roles. This selective pathway engagement suggests that training tempo is not merely behavioural but a physiologically meaningful factor for directing neuroplasticity.",
+    "journal": "The Journal of physiology",
+    "year": "2026",
+    "authors": [
+      "Akalu Y.",
+      "Tallent J.",
+      "Frazer A."
+    ],
+    "doi": "10.1113/JP289141",
+    "source": "PubMed",
+    "url": "https://doi.org/10.1113/JP289141",
+    "matched_keywords": [
+      "transcranial magnetic stimulation"
+    ],
+    "score": 37
+  },
+  {
+    "title": "Monoaminergic Modulation of the Relation Between Motor Cortical Activity and Grip Force.",
+    "abstract": "Our motor system can accurately control movement within both very low and very high force ranges, despite working through noisy cortical neurons, each with individually limited dynamic range. The visual system has peripheral gain mechanisms whereby neurons in the CNS see only a small fraction of the enormous range of luminance in the visual scene encountered throughout the day. The motor system might use an analogous system. One such mechanism could be mediated through monoaminergic input to the spinal cord and its modulation of the gain of motoneurons through its effect on persistent inward currents (PICs). To test this possibility, we measured cortical activity of three monkeys during a power grasp task before and after giving them systemic serotonin agonist or antagonist drugs. We hypothesized that the drugs would alter the effect of serotonin on the PICs in motoneurons, thereby changing the relation between cortical activity and motor output. In two monkeys, this was largely the case, although in two conditions the results were not statistically significant. However, in a third monkey, the results were opposite our hypothesis. These conflicting results raise further questions as to the roles monoamines may play in regulating motor excitability to maintain accurate force control across the wide range needed for grasping movements.",
+    "journal": "Journal of neurophysiology",
+    "year": "2026",
+    "authors": [
+      "Powell R.",
+      "Ma X.",
+      "Bodkin K."
+    ],
+    "doi": "10.1152/jn.00322.2025",
+    "source": "PubMed",
+    "url": "https://doi.org/10.1152/jn.00322.2025",
+    "matched_keywords": [],
+    "score": 35
+  },
+  {
+    "title": "The dual diversity crisis in physiology.",
+    "abstract": "",
+    "journal": "The Journal of physiology",
+    "year": "2026",
+    "authors": [
+      "Rudroff T."
+    ],
+    "doi": "10.1113/JP290947",
+    "source": "PubMed",
+    "url": "https://doi.org/10.1113/JP290947",
+    "matched_keywords": [],
+    "score": 35
+  },
+  {
+    "title": "Emergent critical oscillations in motor cortex of Parkinson's patients",
+    "abstract": "The dynamical state of cortical neural activity constrains the complexity of functions it can perform. A marginally stable dynamical state - called criticality - is thought to be beneficial for brain functions that require multiple time scales, broad dynamic range, and large information storage and transmission. A growing body of evidence suggests that criticality is a feature of healthy brain dynamics, but breaks down in certain brain disorders. Here we ask whether Parkinson's disease incurs deviation from criticality compared to healthy controls. We analyze human resting state EEG activity in primary motor cortex. Parkinson's patients exhibit prominent oscillatory brain activity in multiple frequency bands (low delta and high theta) that is not present in controls. Surprisingly, we find that these emergent oscillations are close to criticality, i.e., amplitude fluctuations with approximate temporal scale invariance. We compare traditional signatures of criticality and more principled measurements of proximity to criticality using our new approach based on information theory and temporal renormalization group theory. Our new approach and traditional methods agree, demonstrating that critical dynamics are not always associated with healthy states; Parkinson's disease is associated with the emergence of near-critical oscillations in motor cortex.",
+    "journal": "bioRxiv",
+    "year": "2026",
+    "authors": [
+      "Ly, C.",
+      "Sooter, J. S.",
+      "Barreiro, A."
+    ],
+    "doi": "10.64898/2026.01.09.698590",
+    "source": "bioRxiv preprint",
+    "url": "https://doi.org/10.64898/2026.01.09.698590",
+    "matched_keywords": [
+      "motor cortex"
+    ],
+    "score": 23
+  },
+  {
+    "title": "Re-evaluating transcranial static magnetic stimulation (tSMS): No inhibitory effects on motor cortex across hemispheres.",
+    "abstract": "To investigate whether transcranial static magnetic stimulation (tSMS) exerts inhibitory effects on the human motor cortex and whether these effects differ between dominant and non-dominant hemispheres. Participants underwent tSMS (20 min) and sham stimulation, targeting either the left (dominant, n = 19) or right (non-dominant, n = 19) motor cortex in a between-subject design. Corticospinal excitability was assessed with transcranial magnetic stimulation (TMS), using single-pulse motor evoked potentials (MEPs) and paired-pulse paradigms (short-interval intracortical inhibition SICI, intracortical facilitation ICF). Neuronavigation ensured stable hotspot localization. No significant differences in MEP amplitudes were observed between tSMS and sham stimulation. Paired-pulse measures confirmed robust inhibition and facilitation, with higher reliability for SICI. However, neither SICI nor ICF showed modulation by tSMS. tSMS modulated excitability in neither the dominant nor the non- dominant hemisphere. The results suggest that previously reported effects may reflect methodological limitations, particularly absence of neuronavigation or low trial numbers. This study provides the first direct hemispheric comparison of tSMS using neuronavigation and robust stimulation protocols, questioning the robustness of earlier findings and highlighting methodological standards for future research.",
+    "journal": "Clinical neurophysiology practice",
+    "year": "2026",
+    "authors": [
+      "Lorenz S.",
+      "Bartusch L.",
+      "Heusler C."
+    ],
+    "doi": "10.1016/j.cnp.2026.02.008",
+    "source": "PubMed",
+    "url": "https://doi.org/10.1016/j.cnp.2026.02.008",
+    "matched_keywords": [
+      "motor cortex",
+      "transcranial magnetic stimulation"
+    ],
+    "score": 20
+  },
+  {
+    "title": "Defining a functional hierarchy of millisecond time: from visual stimulus processing to duration perception",
+    "abstract": "In humans, the neural processing of millisecond time is associated with the activation of a wide range of brain areas and involves different types of neural responses. Unimodal tuning to stimulus duration, for example, has been observed in some of these areas but not in others, and its presence is either inconsistently reported or appears redundant along the cortical hierarchy. Moreover, how this duration tuning supports different functions or perception remains unclear. To address these questions, we measured brain activity with ultra-high field (7T) functional Magnetic Resonance Imaging (fMRI) while participants performed a visual duration discrimination task. Using neuronal-based modeling we estimated unimodal responses to visual durations across a multitude of cortical areas defined with high anatomical precision. In the parietal and premotor cortices, and the caudal portion of the supplementary motor area (SMA), we observed neuronal populations tuned to the full range of presented durations, spatially clustered in well-defined maps. In contrast, in the rostral SMA, inferior frontal cortex, and anterior insula, neuronal units showed duration preferences centered around the mean of the presented duration range. This preference also correlated with the perceptual boundary participants used to solve the task. Differences in preference, spatial clustering, and behavioral correlation suggest distinct functional roles for these cortical areas -ranging from abstract duration representations for readout and task-related goals in the parietal and premotor cortex, to more categorical and subjective representations in the insula and inferior frontal cortex. In line with these hypothesized roles, we also observed distinct patterns of correlation in duration preferences across these cortical regions. Overall, our findings provide a framework for a more comprehensive understanding of the neural circuits and mechanisms underlying duration processing and perception in vision.",
+    "journal": "bioRxiv",
+    "year": "2026",
+    "authors": [
+      "Centanino, V.",
+      "Fortunato, G.",
+      "Bueti, D."
+    ],
+    "doi": "10.1101/2025.06.06.658257",
+    "source": "bioRxiv preprint",
+    "url": "https://doi.org/10.1101/2025.06.06.658257",
+    "matched_keywords": [
+      "premotor cortex",
+      "motor cortex"
+    ],
+    "score": 19
+  },
+  {
+    "title": "A comparison of movement-related neuronal activities in cerebellar- and basal ganglia-recipient regions of the macaque thalamus",
+    "abstract": "The ventral lateral (VL) nucleus of the thalamus relays signals from the cerebellum (Cb) and basal ganglia (BG) to primary motor cortex (M1). In primates, glutamatergic Cb efferents from the deep cerebellar nuclei and GABAergic BG efferents from the internal segment of the globus pallidus (GPi) terminate in distinct subregions of VL: the posterior (VLp) and anterior (VLa) divisions, respectively. This anatomical segregation suggests that Cb- and BG-thalamocortical circuits may play distinct roles in motor control, which could be revealed by comparing movement-related activity in VLp and VLa. Here, we recorded single-unit activity from VLp and VLa, identified via electrical stimulation of superior cerebellar peduncle and GPi, during a choice reaction time reaching task. We also recorded from M1, which maintains bidirectional connections with both VLp and VLa. VLa neurons exhibited a significantly higher proportion of decrease-type responses compared with VLp and M1, consistent with inhibitory GPi input. Time-resolved general linear model analysis showed dynamic encoding of task parameters, particularly movement direction, in all three regions. Direction encoding was strongest in M1, moderate in VLp, and weakest in VLa. Direction encoding in VLa also lagged behind that in M1 and VLp. Clustering analysis of direction encoding strength and timing revealed a subpopulation of VLp neurons that encoded direction particularly strongly during the reaction time period. These results highlight a limitation of traditional assumptions that activity characteristics are distributed homogeneously across neural populations and point to a novel functional organization within VLp neurons.",
+    "journal": "bioRxiv",
+    "year": "2026",
+    "authors": [
+      "Kase, D.",
+      "Zimnik, A. J.",
+      "Cox, K."
+    ],
+    "doi": "10.1101/2025.09.12.675921",
+    "source": "bioRxiv preprint",
+    "url": "https://doi.org/10.1101/2025.09.12.675921",
+    "matched_keywords": [
+      "motor control",
+      "motor cortex"
+    ],
+    "score": 19
+  },
+  {
+    "title": "A Binaural Front End for Speech Intelligibility Models: Application to the Hearing-Aid Speech Perception Index (HASPI).",
+    "abstract": "Binaural hearing can improve the intelligibility of a speech source spatially separated from competing sound sources when compared to co-located conditions. Monaural speech intelligibility models cannot predict this spatial release from masking. A binaural front end is proposed that can be combined with monaural models to do so. From the noisy speech signals at the two ears, it produces binaurally-enhanced monaural signals that can be evaluated by monaural models. A stationary and a time-dependent version of the front end were tested here with the monaural Hearing Aid Speech Perception Index (HASPI) that compares the envelope modulations of the noisy speech to those of the clean speech. The model predictions were compared to the intelligibility scores of three datasets collected with normal-hearing listeners via headphones measurements in anechoic conditions. A stationary speech-shaped noise (SSN) was tested at 10 azimuths in dataset 1. In dataset 2, an SSN or a non-stationary noise were tested at three azimuths, with or without ideal binary mask processing. In dataset 3, the competing sounds were obtained by mixing the signals from an SSN co-located with the target speech, a diffuse noise coming from all directions, and a spatially-separated SSN. The stationary-front-end predictions are very accurate in the conditions with a spatially-separated SSN, while monaural HASPI predictions at the ear with the better signal-to-noise ratio under-estimate intelligibility. The front-end predictions are slightly less accurate for non-stationary noise but under-estimate intelligibility with diffuse noise. The time-dependent version of the front end systematically over-estimates intelligibility at low signal-to-noise ratios.",
+    "journal": "Trends in hearing",
+    "year": "2026",
+    "authors": [
+      "Lavandier M.",
+      "Kates J.",
+      "Arehart K."
+    ],
+    "doi": "10.1177/23312165261422005",
+    "source": "PubMed",
+    "url": "https://doi.org/10.1177/23312165261422005",
+    "matched_keywords": [
+      "speech perception"
+    ],
+    "score": 18
+  },
+  {
+    "title": "The cerebro-cerebellar system: Integrative roles in motor control, cognition, and neuropsychiatric disorders.",
+    "abstract": "The cerebro-cerebellar system, a network of bidirectional loops between the cerebellum and cerebral cortex, is crucial for coordinating motor control, cognition, and emotion. Moving beyond its traditional role in motor coordination, contemporary research underscores the cerebellum's significant involvement in higher-order functions, including executive control, language, and social cognition. This review synthesizes current anatomical, functional, and clinical evidence to delineate the cerebellum's role in neuropsychiatric and neurodegenerative disorders such as schizophrenia, autism spectrum disorder (ASD), and ataxia. Unlike previous broad reviews, this article provides a structured framework that links cerebellar functional topography with disease-specific pathophysiological mechanisms. We particularly highlight the cellular substrates of cerebellar plasticity, such as Purkinje cell long-term depression (LTD). Our synthesis reveals that prior literature often lacks mechanistic depth and fails to integrate findings across structural, functional, and clinical domains. We conclude by proposing future research directions involving advanced neuroimaging, artificial intelligence, and targeted neuromodulation, thereby clarifying the cerebellum's integrative roles and underscoring its translational potential for novel therapeutic strategies.",
+    "journal": "IBRO neuroscience reports",
+    "year": "2026",
+    "authors": [
+      "Khatun M.",
+      "Biswas M.",
+      "Podder M."
+    ],
+    "doi": "10.1016/j.ibneur.2026.03.001",
+    "source": "PubMed",
+    "url": "https://doi.org/10.1016/j.ibneur.2026.03.001",
+    "matched_keywords": [
+      "motor control"
+    ],
+    "score": 18
+  },
+  {
+    "title": "Focal Transcranial Magnetic Stimulation of the Rat Anterior Cingulate Cortex Inhibits Incubation of Opioid Craving after Voluntary Abstinence.",
+    "abstract": "Relapse remains a major challenge in opioid addiction treatment, underscoring the need for innovative therapies. Progress in neuromodulation therapies has been limited by insufficient mechanistic understanding of stimulation engagement and disease-related changes in the brain. We used a novel, focal transcranial magnetic stimulation (TMS) system to deliver high-density theta burst stimulation (hdTBS) combined with resting-state fMRI to test whether anterior cingulate cortex (ACC) stimulation reduces relapse-like behavior and alters functional circuitry in a rodent model of opiate dependence. The coil focality and stimulation parameters approximate human TMS protocols, and the targeted region represents a functional homolog of the human ACC. We trained rats to self-administer oxycodone intravenously for 14 days. We then introduced an electric barrier for 13 days, which caused cessation of drug self-administration. We assessed relapse to oxycodone seeking immediately after training (early abstinence) and after electric-barrier exposure (late abstinence). We administered daily hdTBS or sham stimulation for 7 days before the late-abstinence test. Sham-treated rats showed a time-dependent increase in oxycodone seeking during abstinence (incubation of oxycodone craving) and reduced ACC functional connectivity. In contrast, hdTBS prevented the incubation of oxycodone craving and restored ACC connectivity with the dorsal and ventral striatum. Tracer-based axonal-projection data further showed that stimulation-induced effects aligned with regions receiving dense projections from the stimulation site, suggesting that the projection architecture is critical to the propagation of focal stimulation across distributed networks. These findings identify ACC-centered circuits as mechanistically informed targets for TMS-based interventions that aim to reduce opioid relapse during abstinence. Prefrontal TMS stimulation reduced relapse-like behavior and restored corticostriatal circuits, highlighting translational targets for addiction treatment.",
+    "journal": "bioRxiv : the preprint server for biology",
+    "year": "2026",
+    "authors": [
+      "Ma Z.",
+      "Duan Y.",
+      "Nguyen H."
+    ],
+    "doi": "10.64898/2026.03.04.709400",
+    "source": "PubMed",
+    "url": "https://doi.org/10.64898/2026.03.04.709400",
+    "matched_keywords": [
+      "transcranial magnetic stimulation"
+    ],
+    "score": 18
+  },
+  {
+    "title": "Functional reorganization of motor cortex connectivity during learning.",
+    "abstract": "Learning new tasks requires the brain to reshape the flow of neural activity, but how these changes arise from dynamic neural connectivity remains unclear. Here, we used two-photon photostimulation and calcium imaging to map learning-related changes in connectivity in layer 2/3 of mouse motor cortex, induced by learning of an optical brain-computer interface (BCI) task. Mice rapidly (within minutes) learned to change activity in a conditioned neuron to earn rewards. Activity changes were sparse; the conditioned neuron increased activity more than surrounding neurons. Mapping connectivity before and after learning revealed changes in motor cortex connectivity, enriched in neurons that were active before trial initiation, analogous to motor cortex populations that are active preceding movement. Motor cortex plasticity reroutes preparatory activity to neurons that are active later and control the conditioned neuron. Our findings show how rapid learning can be achieved through structured changes in motor cortex connectivity.",
+    "journal": "bioRxiv : the preprint server for biology",
+    "year": "2026",
+    "authors": [
+      "Daie K.",
+      "Aitken K.",
+      "Rózsa M."
+    ],
+    "doi": "10.64898/2026.03.03.709199",
+    "source": "PubMed",
+    "url": "https://doi.org/10.64898/2026.03.03.709199",
+    "matched_keywords": [
+      "motor cortex"
+    ],
+    "score": 18
+  },
+  {
+    "title": "Effectiveness of transcranial magnetic stimulation on gait and spasticity in people with spinal cord injury: a systematic review and meta-analysis.",
+    "abstract": "Systematic review and meta-analysis. To determine the effectiveness of transcranial magnetic stimulation (TMS) in improving gait velocity and spasticity in people with spinal cord injury (SCI). Studies included in the review were conducted in various countries; the review was carried out in Spain. A systematic review with meta-analysis was conducted by searching for randomized controlled trials published up to November 2024 comparing the application of TMS with a sham group. Outcome variables were gait velocity and spasticity, measured with the 10 m walking test and the Modified Ashworth Scale (MAS) respectively. PubMed, Cochrane Central Register of Controlled Trials, Web of Science, CINAHL and PEDro databases were consulted. Fourteen studies were included in the qualitative analysis and twelve in the quantitative analysis, involving 235 participants with SCI. No significant differences were detected for the effect of TMS on gait velocity (SMD = -0.71; 95%CI: -1.62 to 0.20). However, TMS produced a significant decrease in MAS compared to the control group (MD = -0.56 points; 95%CI: -0.82 to -0.30). Although the subgroup analysis based on the number of pulses showed no significant differences between applications of <1000 and ≥1000 pulses, the ≥1000 pulses subgroup showed significant differences (MD = -0.56 points; 95%CI: -0.83 to -0.30) favoring the experimental group, while the <1000 pulses subgroup showed no significant differences (MD = -0.35 points; 95%CI: -2.03 to 1.34). TMS is effective in improving spasticity in people with SCI with low certainty of evidence. However, TMS has not demonstrated a significant effect on gait velocity, with very low certainty of evidence. Further studies comparing the number of pulses and their effectiveness are warranted to elucidate the findings of this meta-analysis.",
+    "journal": "Spinal cord",
+    "year": "2026",
+    "authors": [
+      "Valera-Sapena F.",
+      "Bravo-Aparicio J.",
+      "Serrano-Muñoz D."
+    ],
+    "doi": "10.1038/s41393-026-01193-2",
+    "source": "PubMed",
+    "url": "https://doi.org/10.1038/s41393-026-01193-2",
+    "matched_keywords": [
+      "transcranial magnetic stimulation"
+    ],
+    "score": 18
+  },
+  {
+    "title": "Features of Mitochondrial Dynamics Changes in Large Pyramidal Neurons of the Human Motor Cortex during Aging.",
+    "abstract": "Brain aging is a physiological process characterized by various neurodegenerative manifestations, largely driven by mitochondrial dysfunctions, including changes in mitochondrial metabolism and dynamics. Conflicting reports in the literature regarding mitochondrial fusion and fission in the human cerebral cortex during aging underscore the need to elucidate the mechanisms of this dysfunction. The aim of this study was to assess features of mitochondrial dynamics in the large pyramidal neurons of the human motor cortex during aging. The study was conducted on autopsy material from the motor cortex of individuals aged 75 years and older. The control group consisted of similar material from individuals aged 35-44 years who died from sudden cardiac death. Intensity of immunohistochemical staining for TOMM20, Drp1, Mfn1, Mfn2, and Opa1 proteins in the large pyramidal neurons of the human motor cortex was evaluated. Decrease in the staining intensity of TOMM20 and Opa1 markers and increase in the staining intensity of the Drp1 marker were observed, indicating enhanced mitochondrial fragmentation in the pyramidal neurons of layer V of the motor cortex, possibly associated with reduction in the mitochondrial pool volume due to dysfunction in the mitochondrial fusion process, which impedes organelle growth.",
+    "journal": "Biochemistry. Biokhimiia",
+    "year": "2026",
+    "authors": [
+      "Baranich T.",
+      "Voronkov D.",
+      "Okulova K."
+    ],
+    "doi": "10.1134/S0006297925604447",
+    "source": "PubMed",
+    "url": "https://doi.org/10.1134/S0006297925604447",
+    "matched_keywords": [
+      "motor cortex"
+    ],
+    "score": 18
+  },
+  {
+    "title": "Phonetic variability leads to gradient speech perception.",
+    "abstract": "Speech sounds are based on categories, but listeners are also sensitive to within-category acoustic variation. This",
+    "journal": "Journal of experimental psychology. Human perception and performance",
+    "year": "2026",
+    "authors": [
+      "Gür E.",
+      "McMurray B."
+    ],
+    "doi": "10.1037/xhp0001411",
+    "source": "PubMed",
+    "url": "https://doi.org/10.1037/xhp0001411",
+    "matched_keywords": [
+      "speech perception"
+    ],
+    "score": 18
+  },
+  {
+    "title": "Sex-based differences in corticospinal excitability and inhibition.",
+    "abstract": "The purpose of this study was to perform a novel exploration of sex-based differences in various single- and paired-pulse transcranial magnetic stimulation (TMS)-based measures of corticospinal excitability and inhibition. Thirty participants (15 females) attended one laboratory visit where responses evoked by single- and paired-pulse TMS were recorded using electromyography from the first dorsal interosseous muscle. Excitability was assessed via the motor-evoked potential (MEP) and intracortical facilitation (ICF). Inhibition was assessed via the cortical silent period (CSP), short-interval intracortical inhibition (SICI), and long-interval intracortical inhibition (LICI). Each measure was compared between sexes. Overall, males and females did not significantly differ in excitability (MEP: P = 0.070; ICF: P = 0.194). Males displayed significantly greater inhibition compared to females for the SICI (P = 0.016) and LICI (P = 0.003) measures but not CSP (P = 0.612). These findings suggest that sex may be an important consideration for some (SICI and LICI), but not all TMS-based measures of corticospinal excitability and inhibition.",
+    "journal": "Experimental physiology",
+    "year": "2026",
+    "authors": [
+      "Kells A.",
+      "Pauhl A.",
+      "Christie A."
+    ],
+    "doi": "10.1113/EP093411",
+    "source": "PubMed",
+    "url": "https://doi.org/10.1113/EP093411",
+    "matched_keywords": [
+      "transcranial magnetic stimulation"
+    ],
+    "score": 12
+  },
+  {
+    "title": "Comparative efficacy of non-pharmacological interventions for post-stroke cognitive impairment: a systematic review and network meta-analysis of randomized controlled trials.",
+    "abstract": "Post-stroke cognitive impairment (PSCI) substantially diminishes quality of life and functional independence in stroke survivors. Various non-pharmacological interventions have been proposed to improve cognitive and functional outcomes; however, their relative effectiveness remains uncertain. A network meta-analysis of 23 RCTs (1,723 participants) evaluated seven non-drug therapies, including computer-based cognitive training (CCT), transcranial direct current stimulation (tDCS), repetitive transcranial magnetic stimulation (rTMS), acupuncture, exercise, and their combinations. Primary and secondary outcomes were MoCA and MBI scores, respectively. Regarding MoCA scores, the most effective intervention was CCT combined with tDCS (mean difference vs. control: 6.67; 95% CrI: 1.20-12.13), followed by acupuncture combined with rTMS (6.59; 95% CrI: 4.34-8.84) and rTMS alone (4.26; 95% CrI: 2.65-5.88). SUCRA rankings indicated that CCT + tDCS and acupuncture + rTMS had the highest probabilities of being the most effective treatments. For MBI scores, tDCS (8.41; 95% CrI: 4.50-12.32), exercise rehabilitation (6.87; 95% CrI: 4.92-8.82), and CCT (6.62; 95% CrI: 3.84-9.39) demonstrated the greatest improvements compared to control. Funnel plots revealed no significant publication bias, and contribution plots supported the stability of the network geometry. Among non-pharmacological approaches for PSCI, combined CCT and tDCS produced the most consistent cognitive improvements, while tDCS and exercise rehabilitation yielded the most pronounced gains in functional recovery. These findings support the clinical integration of multimodal brain stimulation and cognitive rehabilitation strategies in the management of PSCI.",
+    "journal": "Frontiers in neurology",
+    "year": "2026",
+    "authors": [
+      "Niu H.",
+      "Li W.",
+      "Du L."
+    ],
+    "doi": "10.3389/fneur.2026.1644663",
+    "source": "PubMed",
+    "url": "https://doi.org/10.3389/fneur.2026.1644663",
+    "matched_keywords": [
+      "transcranial magnetic stimulation"
+    ],
+    "score": 12
+  },
+  {
+    "title": "Effects of tRNS on perception of static and dynamic displays of social-emotional communication.",
+    "abstract": "Accurately decoding emotions from facial and vocal cues is essential to successful social interaction. The human mirror neuron system (hMNS) is thought to support this through sensorimotor simulation of observed emotional expressions. While prior studies linked hMNS activity-indexed by mu rhythm desynchronization (mu-ERD)-to emotional action perception, causal evidence with dynamic, multimodal social stimuli remains limited. We investigated whether transcranial random noise stimulation (tRNS) to the inferior frontal cortex (IFC), a key node of the hMNS, enhances perception of static and dynamic emotional displays. Fifty-two participants received active or sham tRNS over the IFC. Consistent with pre-registered predictions, active tRNS led to better performance on static emotion perception tasks compared to sham, with no group difference on a static identity-matching control task-validating stimulation specificity. Extending prior work, active tRNS led to faster response times and greater mu-ERD measured by EEG during dynamic audio-visual emotion perception tasks, consistent with predictions relating to enhanced sensorimotor simulation. These findings suggest that tRNS to the IFC can augment rapid, embodied emotion perception-particularly when stimuli more closely approximate real-world social communication-and contribute to the causal mapping of the hMNS, opening new avenues for studying social-emotional function in neurotypical and clinical populations.",
+    "journal": "Social cognitive and affective neuroscience",
+    "year": "2026",
+    "authors": [
+      "Dang C.",
+      "Russo F."
+    ],
+    "doi": "10.1093/scan/nsag011",
+    "source": "PubMed",
+    "url": "https://doi.org/10.1093/scan/nsag011",
+    "matched_keywords": [
+      "action perception"
+    ],
+    "score": 12
+  }
+]
