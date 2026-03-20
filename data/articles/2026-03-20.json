@@ -1,0 +1,364 @@
+[
+  {
+    "title": "Learning to Move and Plan like the Knight: Sequential Decision Making with a Novel Motor Mapping.",
+    "abstract": "Many skills that humans acquire throughout their lives, such as playing video games or sports, require substantial motor learning and multi-step planning. While both processes are typically studied separately, they are likely to interact during the acquisition of complex motor skills. In this work, we studied this interaction by assessing human performance in a sequential decision-making task that requires the learning of a non-trivial motor mapping. Participants were tasked to move a cursor from start to target locations in a grid world, using a standard keyboard. Notably, the specific keys were arbitrarily mapped to a movement rule resembling the Knight chess piece. In Experiment 1, we showed the learning of this mapping in the absence of planning, led to significant improvements in the task when presented with sequential decisions at a later stage. Computational modeling analysis revealed that such improvements resulted from an increased learning rate about the state transitions of the motor mapping, which also resulted in more flexible planning from trial to trial (less perseveration or habitual responses). In Experiment 2, we showed that incorporating mapping learning into the planning process, allows us to capture (1) differential task improvements for distinct planning horizons and (2) overall lower performance for longer horizons. Additionally, model analysis suggested that participants may limit their search to three steps ahead. We hypothesize that this limitation in planning horizon arises from capacity constraints in working memory, and may be the reason complex skills are often broken down into individual subroutines or components during learning.",
+    "journal": "Computational brain & behavior",
+    "year": "2025",
+    "authors": [
+      "Velázquez-Vargas C.",
+      "Taylor J."
+    ],
+    "doi": "10.1007/s42113-025-00245-9",
+    "source": "PubMed",
+    "url": "https://doi.org/10.1007/s42113-025-00245-9",
+    "matched_keywords": [
+      "motor learning"
+    ],
+    "score": 37
+  },
+  {
+    "title": "The spatiotemporal structure of neural activity in motor cortex during reaching",
+    "abstract": "Intracortical brain-computer interfaces (BCI) leverage knowledge about neural representations to translate movement-related neural activity into actions. BCI implants have targeted broad cortical regions known to have relevant motor representations, but emerging technologies will allow flexible targeting to specific neural populations. The structure of motor representations in neural populations across frontal motor cortices, which span centimeters, has not been well characterized. Here, we investigate how motor representations and population dynamics (temporal coordination) vary across a large expanse of frontal motor cortices. We used high-density, laminar, microelectrode arrays to record many neurons and then sampled neural populations across frontal motor cortex in two monkeys while they performed a reaching task. Our experiments allowed us to map neuronal activity across three spatial dimensions and relate them to movement. Target decoding analysis revealed that target direction information (one key aspect of task information) was heterogeneously distributed across the cortical surface and in depth. Similarly, we found that the temporal dynamics of different neural populations was highly variable, but that the amount of task information predicted which neural populations had similar dynamics. The neural populations with the most similar dynamics were composed of neurons with high task information regardless of spatial location. Our results highlight the spatiotemporal complexity of motor representations across frontal motor cortex at the level of neurons and neural populations, where well-learned movements consistently recruit a spatially distributed subset of neurons. Further insights into the spatiotemporal structure of neural activity patterns across frontal motor cortex will be critical to guide future implants for improved BCI performance.",
+    "journal": "bioRxiv",
+    "year": "2026",
+    "authors": [
+      "Canfield, R. A.",
+      "Ouchi, T.",
+      "Fang, H."
+    ],
+    "doi": "10.1101/2025.10.17.683171",
+    "source": "bioRxiv preprint",
+    "url": "https://doi.org/10.1101/2025.10.17.683171",
+    "matched_keywords": [
+      "motor cortex"
+    ],
+    "score": 23
+  },
+  {
+    "title": "Re-evaluating transcranial static magnetic stimulation (tSMS): No inhibitory effects on motor cortex across hemispheres.",
+    "abstract": "To investigate whether transcranial static magnetic stimulation (tSMS) exerts inhibitory effects on the human motor cortex and whether these effects differ between dominant and non-dominant hemispheres. Participants underwent tSMS (20 min) and sham stimulation, targeting either the left (dominant, n = 19) or right (non-dominant, n = 19) motor cortex in a between-subject design. Corticospinal excitability was assessed with transcranial magnetic stimulation (TMS), using single-pulse motor evoked potentials (MEPs) and paired-pulse paradigms (short-interval intracortical inhibition SICI, intracortical facilitation ICF). Neuronavigation ensured stable hotspot localization. No significant differences in MEP amplitudes were observed between tSMS and sham stimulation. Paired-pulse measures confirmed robust inhibition and facilitation, with higher reliability for SICI. However, neither SICI nor ICF showed modulation by tSMS. tSMS modulated excitability in neither the dominant nor the non- dominant hemisphere. The results suggest that previously reported effects may reflect methodological limitations, particularly absence of neuronavigation or low trial numbers. This study provides the first direct hemispheric comparison of tSMS using neuronavigation and robust stimulation protocols, questioning the robustness of earlier findings and highlighting methodological standards for future research.",
+    "journal": "Clinical neurophysiology practice",
+    "year": "2026",
+    "authors": [
+      "Lorenz S.",
+      "Bartusch L.",
+      "Heusler C."
+    ],
+    "doi": "10.1016/j.cnp.2026.02.008",
+    "source": "PubMed",
+    "url": "https://doi.org/10.1016/j.cnp.2026.02.008",
+    "matched_keywords": [
+      "motor cortex",
+      "transcranial magnetic stimulation"
+    ],
+    "score": 20
+  },
+  {
+    "title": "Defining a functional hierarchy of millisecond time: from visual stimulus processing to duration perception",
+    "abstract": "In humans, the neural processing of millisecond time is associated with the activation of a wide range of brain areas and involves different types of neural responses. Unimodal tuning to stimulus duration, for example, has been observed in some of these areas but not in others, and its presence is either inconsistently reported or appears redundant along the cortical hierarchy. Moreover, how this duration tuning supports different functions or perception remains unclear. To address these questions, we measured brain activity with ultra-high field (7T) functional Magnetic Resonance Imaging (fMRI) while participants performed a visual duration discrimination task. Using neuronal-based modeling we estimated unimodal responses to visual durations across a multitude of cortical areas defined with high anatomical precision. In the parietal and premotor cortices, and the caudal portion of the supplementary motor area (SMA), we observed neuronal populations tuned to the full range of presented durations, spatially clustered in well-defined maps. In contrast, in the rostral SMA, inferior frontal cortex, and anterior insula, neuronal units showed duration preferences centered around the mean of the presented duration range. This preference also correlated with the perceptual boundary participants used to solve the task. Differences in preference, spatial clustering, and behavioral correlation suggest distinct functional roles for these cortical areas -ranging from abstract duration representations for readout and task-related goals in the parietal and premotor cortex, to more categorical and subjective representations in the insula and inferior frontal cortex. In line with these hypothesized roles, we also observed distinct patterns of correlation in duration preferences across these cortical regions. Overall, our findings provide a framework for a more comprehensive understanding of the neural circuits and mechanisms underlying duration processing and perception in vision.",
+    "journal": "bioRxiv",
+    "year": "2026",
+    "authors": [
+      "Centanino, V.",
+      "Fortunato, G.",
+      "Bueti, D."
+    ],
+    "doi": "10.1101/2025.06.06.658257",
+    "source": "bioRxiv preprint",
+    "url": "https://doi.org/10.1101/2025.06.06.658257",
+    "matched_keywords": [
+      "premotor cortex",
+      "motor cortex"
+    ],
+    "score": 19
+  },
+  {
+    "title": "A comparison of movement-related neuronal activities in cerebellar- and basal ganglia-recipient regions of the macaque thalamus",
+    "abstract": "The ventral lateral (VL) nucleus of the thalamus relays signals from the cerebellum (Cb) and basal ganglia (BG) to primary motor cortex (M1). In primates, glutamatergic Cb efferents from the deep cerebellar nuclei and GABAergic BG efferents from the internal segment of the globus pallidus (GPi) terminate in distinct subregions of VL: the posterior (VLp) and anterior (VLa) divisions, respectively. This anatomical segregation suggests that Cb- and BG-thalamocortical circuits may play distinct roles in motor control, which could be revealed by comparing movement-related activity in VLp and VLa. Here, we recorded single-unit activity from VLp and VLa, identified via electrical stimulation of superior cerebellar peduncle and GPi, during a choice reaction time reaching task. We also recorded from M1, which maintains bidirectional connections with both VLp and VLa. VLa neurons exhibited a significantly higher proportion of decrease-type responses compared with VLp and M1, consistent with inhibitory GPi input. Time-resolved general linear model analysis showed dynamic encoding of task parameters, particularly movement direction, in all three regions. Direction encoding was strongest in M1, moderate in VLp, and weakest in VLa. Direction encoding in VLa also lagged behind that in M1 and VLp. Clustering analysis of direction encoding strength and timing revealed a subpopulation of VLp neurons that encoded direction particularly strongly during the reaction time period. These results highlight a limitation of traditional assumptions that activity characteristics are distributed homogeneously across neural populations and point to a novel functional organization within VLp neurons.",
+    "journal": "bioRxiv",
+    "year": "2026",
+    "authors": [
+      "Kase, D.",
+      "Zimnik, A. J.",
+      "Cox, K."
+    ],
+    "doi": "10.1101/2025.09.12.675921",
+    "source": "bioRxiv preprint",
+    "url": "https://doi.org/10.1101/2025.09.12.675921",
+    "matched_keywords": [
+      "motor control",
+      "motor cortex"
+    ],
+    "score": 19
+  },
+  {
+    "title": "Cerebral Hemodynamics in Pediatric Abusive Head Trauma: 3 Severe Cases with Preserved Motor Cortex, Hyperperfusion, and Recovery of Mild Paralysis.",
+    "abstract": "Abusive head trauma in infants and young children can have a significant impact on neurological outcomes and, in severe cases, may be life-threatening. We report 3 cases of abusive head trauma that presented with acute subdural hematomas on computed tomography scans, accompanied by extensive low-density areas and parenchymal brain swelling. All patients exhibited impaired consciousness due to brain injury and underwent craniotomy for hematoma evacuation as well as extensive decompressive craniectomy. Despite the severity of the initial presentation, hemiparesis was mild and gradually improved over several months. Postoperative magnetic resonance imaging revealed widespread parenchymal injury but preservation of the corticospinal tract, including the precentral gyrus. In the acute phase, diffusion-weighted imaging showed no irreversible infarction in the motor cortex, and arterial spin labeling demonstrated increased perfusion in peri-motor regions of the affected hemisphere. These findings suggest that preserved corticospinal pathways and compensatory hyperperfusion may correlate with favorable motor recovery even in the presence of extensive parenchymal damage. These cases highlight the radiological features and short-term neurological outcomes of abusive head trauma, demonstrating preserved motor function despite extensive parenchymal damage.",
+    "journal": "NMC case report journal",
+    "year": "2026",
+    "authors": [
+      "Tamura M.",
+      "Yamashita S.",
+      "Kawano T."
+    ],
+    "doi": "10.2176/jns-nmc.2025-0258",
+    "source": "PubMed",
+    "url": "https://doi.org/10.2176/jns-nmc.2025-0258",
+    "matched_keywords": [
+      "motor cortex"
+    ],
+    "score": 18
+  },
+  {
+    "title": "Combined repetitive transcranial magnetic stimulation and functional electrical stimulation cycling to improve lower extremity function following incomplete spinal cord injury: Protocol for a pilot randomized controlled trial.",
+    "abstract": "Spinal cord injury (SCI) is a neurological condition that affects thousands of individuals globally each year. Among its many consequences, lower extremity impairments, including reduced walking function, balance deficits, and muscle weakness, significantly impact mobility and quality of life. Various rehabilitation approaches aim to restore function, including neuromodulation strategies, such as functional electrical stimulation (FES) cycling and repetitive transcranial magnetic stimulation (rTMS). While both interventions have shown effectiveness in improving lower extremity function following SCI, they have yet to be performed together to determine the combined effectiveness. This pilot trial will evaluate the feasibility and safety of combining rTMS and FES cycling in people with motor incomplete SCI (iSCI) and provide information to determine a sample size for a full randomized controlled trial. Secondary outcomes will explore the effectiveness of the combined intervention on lower extremity function. This is a pilot randomized controlled trial with assessor and participant blinding. Fourteen participants will be randomized to receive either active or sham rTMS prior to FES cycling for a total of 12 sessions over six weeks. Functional outcomes, including gait parameters, muscle strength, and balance tests, will be assessed at baseline, midpoint, post-intervention, and two weeks following treatment cessation and will be assessed both within and between groups to explore trends in efficacy. Feasibility and safety data will be analyzed descriptively. This study aims to establish a protocol and sample size for running a full randomized controlled trial on the effectiveness of combining rTMS and FES cycling for lower extremity rehabilitation in iSCI. The protocol is registered with ClinicalTrials.gov (ID: NCT05975606).",
+    "journal": "PloS one",
+    "year": "2026",
+    "authors": [
+      "Ghahremani F.",
+      "Schabrun S.",
+      "Peters S."
+    ],
+    "doi": "10.1371/journal.pone.0345100",
+    "source": "PubMed",
+    "url": "https://doi.org/10.1371/journal.pone.0345100",
+    "matched_keywords": [
+      "transcranial magnetic stimulation"
+    ],
+    "score": 18
+  },
+  {
+    "title": "The role of speech perception gradiency in L1 versus L2 spoken-word recognition.",
+    "abstract": "Speech perception gradiency reflects sensitivity to subphonemic differences. Prior research has shown that gradiency facilitates recovery from misperceptions (i.e., speech perception flexibility) in L1 (Kapnoula et al., 2021), but whether and how gradiency contributes to speech perception flexibility in L2 remains unknown. This study investigated the role of gradiency in spoken-word recognition among Spanish (L1)-English (L2) bilinguals. Gradiency was assessed using a Visual Analogue Scale with stop consonants (/b/-/p/), and initial activation of a lexical competitor and speech perception flexibility were assessed using an eye-tracking Visual World Paradigm task. Seventy Spanish-English bilinguals completed these tasks in both languages. Following previous results in L1 English, gradiency facilitated speech perception flexibility in L1 Spanish. In contrast, gradiency did not facilitate L2 speech perception; instead, a different pattern emerged: participants relied more heavily on lexical (top-down) than subphonemic (bottom-up) information, as would be expected given the less robust category representations in L2. In addition, a positive correlation between L1 and L2 gradiency was observed only among higher-proficiency listeners. Overall, these findings suggest that the functional role of gradiency in L1 versus L2 speech perception is modulated by the differential reliance on bottom-up versus top-down information. (PsycInfo Database Record (c) 2026 APA, all rights reserved).",
+    "journal": "Journal of experimental psychology. Human perception and performance",
+    "year": "2026",
+    "authors": [
+      "Wong B.",
+      "Samuel A.",
+      "Kapnoula E."
+    ],
+    "doi": "10.1037/xhp0001399",
+    "source": "PubMed",
+    "url": "https://doi.org/10.1037/xhp0001399",
+    "matched_keywords": [
+      "speech perception"
+    ],
+    "score": 18
+  },
+  {
+    "title": "A Binaural Front End for Speech Intelligibility Models: Application to the Hearing-Aid Speech Perception Index (HASPI).",
+    "abstract": "Binaural hearing can improve the intelligibility of a speech source spatially separated from competing sound sources when compared to co-located conditions. Monaural speech intelligibility models cannot predict this spatial release from masking. A binaural front end is proposed that can be combined with monaural models to do so. From the noisy speech signals at the two ears, it produces binaurally-enhanced monaural signals that can be evaluated by monaural models. A stationary and a time-dependent version of the front end were tested here with the monaural Hearing Aid Speech Perception Index (HASPI) that compares the envelope modulations of the noisy speech to those of the clean speech. The model predictions were compared to the intelligibility scores of three datasets collected with normal-hearing listeners via headphones measurements in anechoic conditions. A stationary speech-shaped noise (SSN) was tested at 10 azimuths in dataset 1. In dataset 2, an SSN or a non-stationary noise were tested at three azimuths, with or without ideal binary mask processing. In dataset 3, the competing sounds were obtained by mixing the signals from an SSN co-located with the target speech, a diffuse noise coming from all directions, and a spatially-separated SSN. The stationary-front-end predictions are very accurate in the conditions with a spatially-separated SSN, while monaural HASPI predictions at the ear with the better signal-to-noise ratio under-estimate intelligibility. The front-end predictions are slightly less accurate for non-stationary noise but under-estimate intelligibility with diffuse noise. The time-dependent version of the front end systematically over-estimates intelligibility at low signal-to-noise ratios.",
+    "journal": "Trends in hearing",
+    "year": "2026",
+    "authors": [
+      "Lavandier M.",
+      "Kates J.",
+      "Arehart K."
+    ],
+    "doi": "10.1177/23312165261422005",
+    "source": "PubMed",
+    "url": "https://doi.org/10.1177/23312165261422005",
+    "matched_keywords": [
+      "speech perception"
+    ],
+    "score": 18
+  },
+  {
+    "title": "The cerebro-cerebellar system: Integrative roles in motor control, cognition, and neuropsychiatric disorders.",
+    "abstract": "The cerebro-cerebellar system, a network of bidirectional loops between the cerebellum and cerebral cortex, is crucial for coordinating motor control, cognition, and emotion. Moving beyond its traditional role in motor coordination, contemporary research underscores the cerebellum's significant involvement in higher-order functions, including executive control, language, and social cognition. This review synthesizes current anatomical, functional, and clinical evidence to delineate the cerebellum's role in neuropsychiatric and neurodegenerative disorders such as schizophrenia, autism spectrum disorder (ASD), and ataxia. Unlike previous broad reviews, this article provides a structured framework that links cerebellar functional topography with disease-specific pathophysiological mechanisms. We particularly highlight the cellular substrates of cerebellar plasticity, such as Purkinje cell long-term depression (LTD). Our synthesis reveals that prior literature often lacks mechanistic depth and fails to integrate findings across structural, functional, and clinical domains. We conclude by proposing future research directions involving advanced neuroimaging, artificial intelligence, and targeted neuromodulation, thereby clarifying the cerebellum's integrative roles and underscoring its translational potential for novel therapeutic strategies.",
+    "journal": "IBRO neuroscience reports",
+    "year": "2026",
+    "authors": [
+      "Khatun M.",
+      "Biswas M.",
+      "Podder M."
+    ],
+    "doi": "10.1016/j.ibneur.2026.03.001",
+    "source": "PubMed",
+    "url": "https://doi.org/10.1016/j.ibneur.2026.03.001",
+    "matched_keywords": [
+      "motor control"
+    ],
+    "score": 18
+  },
+  {
+    "title": "Retrosplenial cortex enables context-dependent goal-directed sensorimotor transformation",
+    "abstract": "The ability to dynamically adjust a behavioral response to a stimulus depending on context is of critical importance for animals. To investigate the neural basis supporting context-dependent sensory processing we developed a behavioral task in which mice changed their response to a single whisker deflection according to a continuously present contextual cue. Through unbiased optogenetic inactivation mapping, we found that neuronal activity in sensory and motor cortices contributed to task execution and, interestingly, we uncovered an unexpected role of retrosplenial cortex for contextual integration. Widefield calcium imaging revealed that retrosplenial cortex was the first dorsal cortical area to show context discrimination in response to whisker stimulation, followed by whisker motor cortex. Finally, we combined optogenetic inactivation with calcium imaging to define causal context-dependent changes in sensorimotor processing. Our cortex-wide mapping experiments thus begin to define key cortical nodes for context-dependent sensorimotor transformation and highlight an important contribution of retrosplenial cortex.",
+    "journal": "bioRxiv",
+    "year": "2026",
+    "authors": [
+      "Bech, P.",
+      "Dard, R.",
+      "Lebert, J."
+    ],
+    "doi": "10.1101/2025.10.31.685738",
+    "source": "bioRxiv preprint",
+    "url": "https://doi.org/10.1101/2025.10.31.685738",
+    "matched_keywords": [
+      "motor cortex"
+    ],
+    "score": 17
+  },
+  {
+    "title": "Tavapadon as Adjunctive Treatment for Parkinson Disease: The TEMPO-3 Randomized Clinical Trial.",
+    "abstract": "Development of motor fluctuations is common in people with Parkinson disease (PD) treated with oral levodopa, and currently available dopamine (D) agonists adjunctive to levodopa offer additional motor control but may increase risk of adverse events (AEs) via preferential activation of D2/D3 receptors. Tavapadon is a novel, investigational, oral, once-daily, selective D1/D5 agonist that may improve motor control while minimizing AEs commonly associated with D2/D3 receptor activation. To evaluate the efficacy, safety, and tolerability of tavapadon as adjunctive therapy to oral levodopa in adults with PD experiencing motor fluctuations. This was a phase 3, double-blind, placebo-controlled randomized clinical trial conducted between September 2020 and February 2024 with a 4-week safety follow-up. Participants were recruited from 148 sites across 14 countries. Participants were enrolled after screening adults with PD who were experiencing fluctuations while receiving stable oral levodopa (≥400 mg daily). Participants were randomized 1:1 to flexible-dose tavapadon (5-15 mg once daily) or placebo adjunctive to oral levodopa for 27 weeks. The primary end point was change from baseline to week 26 in total daily on-time (ie, good mobility, smoother movement, fewer motor/nonmotor symptoms) without troublesome dyskinesia (referred to as good-on-time). The key secondary end point was change from baseline in total daily off-time (ie, return/worsening of motor/nonmotor symptoms often experienced between medication doses). After screening 824 adults with PD, 507 participants (mean [SD] age, 64.9 [8.5] years; 321 male [63%]; mean [SD] disease duration, 6.7 [4.5] years; mean [SD] baseline daily off-time, 5.5 [2.4] hours) were enrolled and received tavapadon (n = 252) or placebo (n = 255). Tavapadon significantly increased daily good-on-time by 1.10 hours compared with placebo (1.70 vs 0.60 hours; 95% CI, 0.60-1.70; P <.001). Daily off-time was significantly reduced from baseline with tavapadon vs placebo (-1.88 vs -0.93 hours; difference, -0.94 hours; 95% CI, -1.48 to -0.41]; P < .001). Tavapadon had a favorable safety profile; although more AEs occurred with tavapadon vs placebo (180 participants [71.7%] vs 140 participants [55.1%]), most were nonserious (93.2%) and mild to moderate in severity. Common AEs with tavapadon (≥5% of participants) were nausea (14.3%), dyskinesia (10.0%), and dizziness (7.6%). Findings of this randomized clinical trial demonstrate the efficacy, tolerability, and safety profile of tavapadon adjunctive to levodopa for off fluctuations. ClinicalTrials.gov Identifier: NCT04542499.",
+    "journal": "JAMA neurology",
+    "year": "2026",
+    "authors": [
+      "Fernandez H.",
+      "Isaacson S.",
+      "Hauser R."
+    ],
+    "doi": "10.1001/jamaneurol.2026.0577",
+    "source": "PubMed",
+    "url": "https://doi.org/10.1001/jamaneurol.2026.0577",
+    "matched_keywords": [
+      "motor control"
+    ],
+    "score": 12
+  },
+  {
+    "title": "Cervicomedullary motor evoked responses in individuals with severe chronic hemiparesis post-stroke: a feasibility study.",
+    "abstract": "Understanding the neural mechanisms underlying upper limb motor recovery after stroke remains a significant challenge in rehabilitation research. It has been proposed that individuals who show no motor-evoked potential (MEP) response to transcranial magnetic stimulation (TMS) and are thus classified as MEP negative (MEP-) have limited potential for recovery in part due to damage of the corticospinal pathway. In this study, we investigate how individuals categorized as MEP- with TMS respond to stimulation of the corticospinal pathway at a subcortical level. We describe the methodology for eliciting MEPs by using cervicomedullary electrical stimulation (CMEP) in post-stroke individuals with severe upper limb hemiparesis. MEP status (+/-) of the more affected arm was assessed using TMS and cervicomedullary electrical stimulation in stroke survivors with severe upper extremity hemiparesis. While most of the participants were classified as MEP-, all individuals were categorized as CMEP+ in the biceps brachii, extensor carpi radialis, and first dorsal interosseous muscles. Importantly, we report the first testing of CMEPs in a small cohort of individuals with stroke. This technique is feasible in this population and has potential for application in clinical translation settings. Our findings provide a foundation for future studies to replicate and expand upon this approach, enabling the exploration of new hypotheses related to post-stroke rehabilitation and recovery.",
+    "journal": "Frontiers in neurology",
+    "year": "2026",
+    "authors": [
+      "Butler C.",
+      "Dutt A.",
+      "Winstein C."
+    ],
+    "doi": "10.3389/fneur.2026.1722620",
+    "source": "PubMed",
+    "url": "https://doi.org/10.3389/fneur.2026.1722620",
+    "matched_keywords": [
+      "transcranial magnetic stimulation"
+    ],
+    "score": 12
+  },
+  {
+    "title": "Modulation of corticospinal excitability and muscle synergies during visuomotor locomotor task in individuals with and without cerebral palsy: a TMS and EMG study.",
+    "abstract": "Studies using transcranial magnetic stimulation and electromyography suggest that disrupted functional corticospinal connectivity significantly contributes to difficulty in initiating and controlling voluntary movements such as walking. In individuals with Cerebral Palsy (CP), the corticospinal tract (CST) may therefore be identified as a potential target for improving gait control. Increasing corticospinal excitability may enhance voluntary control of lower-limb muscles and improve selective activation patterns during gait. However, it remains uncertain whether this pathway can be further activated given the damage caused by the brain lesion. Moreover, muscle synergies, a cooperative activation of groups of muscles, play an essential role in efficient and adaptive locomotion. Disrupted CST projections may reduce the specificity and strength of descending commands, which can lead to the fusion or splitting of muscle synergies. This impaired descending modulation could explain the reduced number of synergies and lower variance often reported in people with CP. Understanding and improving the modulation of these synergies could lead to better rehabilitation strategies for individuals with CP. The objective of this study was to assess whether a visuomotor walking task promotes an increase in corticospinal excitability and a modulation of muscle synergies compared to a simple walking task in individuals with CP. Sixteen individuals with CP were initially recruited, muscle synergy analyses were conducted in 14 participants and TMS-based corticospinal excitability assessments in 11 participants, due to contraindications to TMS or technical issues. In addition, 14 control subjects took part in this study. Each participant performed a simple walking task and a visuomotor walking task (i.e., stepping onto virtual targets) at comfortable speed, in counterbalanced order. Transcranial magnetic stimulations were delivered during walking at approximately 40% of the gait cycle (late stance phase), corresponding to minimal tibialis anterior activity. Muscle synergies were extracted from full gait cycles recorded throughout each condition. Motor evoked potentials (MEPs) in the tibialis anterior muscle were induced using transcranial magnetic stimulation. Muscle synergies were extracted from surface electromyography signals acquired from six key lower-limb muscles during both tasks. Values were expressed as (median [Q1-Q3]). In the visuomotor task, MEPs increased by 59.4% in the CP group (simple task MEP = 1.89 [1.00-3.09] a.u vs. visuomotor task MEP = 2.70 [1.59-4.80] a.u;  These results suggest that performing a visuomotor walking task allows to enhance the corticospinal excitability in both individuals with CP and control subjects. Moreover, CP individuals showed that either the number or the structure of synergies are modulated by the visuomotor task, in comparison to control subjects. Longitudinal studies are recommended to assess the impact of the integration of complex tasks in gait rehabilitation interventions.",
+    "journal": "Frontiers in neurology",
+    "year": "2026",
+    "authors": [
+      "Cherni Y.",
+      "Ghislieri M.",
+      "Bouyer L."
+    ],
+    "doi": "10.3389/fneur.2026.1669546",
+    "source": "PubMed",
+    "url": "https://doi.org/10.3389/fneur.2026.1669546",
+    "matched_keywords": [
+      "transcranial magnetic stimulation"
+    ],
+    "score": 12
+  },
+  {
+    "title": "Efficacy and safety of neuromodulation and multimodal therapies for traumatic brain injury-induced disorders of consciousness: an updated umbrella review.",
+    "abstract": "Post-traumatic disorders of consciousness (DoC) remain a major barrier to recovery after traumatic brain injury (TBI), yet therapeutic guidance is fragmented across modalities. To synthesize the highest-level evidence on efficacy and safety of interventions for TBI-related DoC and derive practice-oriented recommendations. Following PRISMA and a prospectively registered protocol (INPLASY202480015), we systematically screened PubMed, Embase, Web of Science, and CNKI through June 2024 for peer-reviewed systematic reviews and meta-analyses focused on TBI-induced DoC. Methodological quality was appraised using AMSTAR-2. Primary outcomes were CRS-R, GCS, GOS, and overall efficacy rate; random- or fixed-effects models were applied per heterogeneity. Seven high-quality evidence syntheses encompassing 121 trials and eight interventions were included. Neuromodulation showed consistent benefits: repetitive transcranial magnetic stimulation (rTMS) improved CRS-R (MD 3.00, 95% CI 2.47-3.52) and GCS (MD 2.92, 1.65-4.19); transcranial direct current stimulation (tDCS) improved CRS-R (MD 2.08, 0.63-3.25). Peripheral and sensory approaches were robust: acupuncture improved GCS (MD 2.03, 1.54-2.52), GOS (RR 1.22, 1.16-1.29), and Efficacy Rate (RR 1.48, 1.40-1.56); multisensory stimulation improved GCS (MD 2.28, 2.02-2.54) and GOS (MD 1.11, 0.77-1.45). Right median nerve stimulation (RMNS) and family-centered sensory-affective stimulation also yielded significant gains, while single-study Trigeminal nerve stimulation (TNS) effects were mixed. tDCS, rTMS, median nerve stimulation, multisensory stimulation, and acupuncture emerge as leading strategies for TBI-related DoC. We highlight priorities for the field: adequately powered multicenter RCTs with standardized protocols, mechanistic studies to refine dosing and targets, and predictive tools for personalized therapy selection. This umbrella synthesis provides a pragmatic evidence map to accelerate recovery and improve long-term outcomes in this vulnerable population.",
+    "journal": "Frontiers in neurology",
+    "year": "2026",
+    "authors": [
+      "Yang X.",
+      "Li Y.",
+      "Zhang N."
+    ],
+    "doi": "10.3389/fneur.2026.1742096",
+    "source": "PubMed",
+    "url": "https://doi.org/10.3389/fneur.2026.1742096",
+    "matched_keywords": [
+      "transcranial magnetic stimulation"
+    ],
+    "score": 12
+  },
+  {
+    "title": "Subcortical microstructural impairment in amyotrophic lateral sclerosis: clinical correlates of neurite orientation dispersion and density imaging (NODDI) changes.",
+    "abstract": "Amyotrophic lateral sclerosis (ALS) is a progressive neurodegenerative disease involving widespread network disruption beyond the motor cortex. Deep gray matter (DGM) nuclei, crucial for motor and cognitive integration, remain underexplored  Diffusion-weighted MRI data were acquired from 23 ALS patients and 24 age- and sex-matched healthy controls. Orientation dispersion index (ODI), neurite density index (NDI), and free water fraction (FWF) were extracted from the bilateral thalamus, caudate, putamen, pallidum, hippocampus, and amygdala using the Destrieux atlas. Group comparisons and partial correlations were adjusted for age, sex, and disease duration. No significant group differences in DGM volumes or NODDI-derived metrics survived correction for multiple comparisons. Within the ALS group, several nominal (uncorrected) associations were observed between DGM microstructural metrics and ALSFRS-R subscores. Reduced respiratory subscores were associated with higher ODI in the left thalamus (ρ = 0.57,  These findings suggest subtle and predominantly exploratory associations between DGM microstructural properties and clinical measures in ALS. NODDI derived metrics, particularly ODI and NDI, may provide sensitive indices of subcortical microstructural variation, warranting further investigation in larger cohorts.",
+    "journal": "Frontiers in neuroscience",
+    "year": "2026",
+    "authors": [
+      "Sharbafshaaer M.",
+      "Pirozzi M.",
+      "Caiazzo G."
+    ],
+    "doi": "10.3389/fnins.2026.1757470",
+    "source": "PubMed",
+    "url": "https://doi.org/10.3389/fnins.2026.1757470",
+    "matched_keywords": [
+      "motor cortex"
+    ],
+    "score": 12
+  },
+  {
+    "title": "Effects of Native Language and Exposure to Foreign Language on Categorization and Discrimination of Vowel Duration and Lexical Tone.",
+    "abstract": "Native speakers generally outperform non-native speakers in identifying and discriminating speech sounds. Yet, the categorical perception of native speech sounds can sometimes impede the discrimination of sounds within the same phonemic category. It remains unclear whether different linguistic features show similar patterns in cross-linguistic comparisons. Therefore, we studied the categorization and discrimination of vowel duration and lexical tone-two features that differ fundamentally. Vowel duration (short vs. long) typically requires phonemic context for categorization, while tone (rising vs. falling) can be recognized directly from acoustics. Participants were native Finnish and Mandarin Chinese speakers, and native Mandarin Chinese speakers exposed to Finnish. As expected, Mandarin speakers demonstrated a steeper category boundary for tonal stimuli than Finnish speakers. In contrast, no group difference was found for categorization slope for duration. In discrimination, native speakers outperformed non-native speakers for between-category pairs, as anticipated. For within-category pairs, however, native speakers performed worse than non-native speakers-but only for the tone feature. Mandarin speakers exposed to Finnish showed differences in categorization of vowel duration and in associated reaction times compared with the other groups. The results suggest that native language does not influence vowel perception uniformly across tone and duration features. Moreover, exposure to a foreign language in adulthood may, at least initially, lead to categorization preferences that diverge from, rather than align with, those of native speakers. These findings provide a basis for future theoretical models of how native language and late exposure shape speech perception across different phonetic features.",
+    "journal": "Language and speech",
+    "year": "2026",
+    "authors": [
+      "Jiang K.",
+      "Li X.",
+      "Ye C."
+    ],
+    "doi": "10.1177/00238309261425682",
+    "source": "PubMed",
+    "url": "https://doi.org/10.1177/00238309261425682",
+    "matched_keywords": [
+      "speech perception"
+    ],
+    "score": 12
+  },
+  {
+    "title": "Transcranial direct current stimulation (tDCS) over the dorso-lateral-prefrontal cortex in combination with exercises for the treatment of individuals with chronic low back pain (STOP-Low Back Pain Trial): study protocol for a randomised controlled trial.",
+    "abstract": "Chronic low back pain (CLBP) remains a leading cause of disability worldwide and imposes a substantial personal and socioeconomic burden. Despite exercise being the first-line recommended intervention in clinical guidelines, its efficacy on pain relief remains modest and the hypoalgesia induced by exercise seems to be limited in individuals with musculoskeletal pain. Previous transcranial direct current stimulation (tDCS) studies have mainly targeted the motor cortex, yielding heterogeneous results, underscoring the need to evaluate alternative brain areas. Recently, tDCS studies targeting the dorsolateral prefrontal cortex (DLPFC) may enhance endogenous pain modulation and thereby potentiate the response to exercise. This study aims to compare the effects of adjunctive anodal DLPFC tDCS combined with a standardised exercise programme versus sham tDCS combined with the same exercise programme on pain and function in adults with CLBP. This is a single-centre, triple-blinded, parallel-group randomised controlled trial. 48 participants with CLBP will be randomly assigned to receive either anodal tDCS over the left PFC combined with exercises, or sham tDCS combined with the same exercise programme, over nine sessions during a 3-week period. The primary outcome is the change in the multidimensional impact of CLBP, assessed using the Core Outcome Measures Index, from baseline to postintervention (week 4). Secondary outcomes include pain intensity, disability, psychological factors (fear-avoidance beliefs, catastrophising, anxiety, depression), measured at baseline, postintervention and at 12- and 24-week follow-up. Functional brain connectivity via electroencephalography and neuromuscular function of the erector spinae (flexion-relaxation phenomenon) will be measured at baseline and postintervention. This study was approved by the Commission Cantonale d'Ethique de la Recherche sur l'être humain (CCER) in December 2022 (reference number: 2022-D0077). Written informed consent will be obtained from all participants. The results will be disseminated through peer-reviewed publications and presentations at national and international conferences. NCT05757609.",
+    "journal": "BMJ open",
+    "year": "2026",
+    "authors": [
+      "Pourchet T.",
+      "Armand S.",
+      "Martins C."
+    ],
+    "doi": "10.1136/bmjopen-2025-111649",
+    "source": "PubMed",
+    "url": "https://doi.org/10.1136/bmjopen-2025-111649",
+    "matched_keywords": [
+      "motor cortex"
+    ],
+    "score": 12
+  },
+  {
+    "title": "High-gamma tACS may regulate brain network connectivity to alleviate symptoms in female adolescent non-suicidal self-injury: a preliminary TMS-EEG pilot study.",
+    "abstract": "To explore the efficacy and potential neurophysiological mechanisms of 77.5 Hz transcranial alternating current stimulation (tACS) in the treatment of female adolescent non-suicidal self-injury (NSSI). Six female NSSI patients received 21 days of 77.5 Hz, 15 mA tACS treatments. Neuropsychological scales were assessed at baseline (W0), after treatment (W3), and 4-week (W7) and 8-week (W11) follow-ups. Transcranial magnetic stimulation with EEG evaluated changes in source-level brain activity and phase-synchronous functional connectivity. Mixed repeated-measures ANOVA with Bonferroni correction (p < 0.017) was used for behavioral data analysis to correct for multiple comparisons. Effect sizes (Cohen's d) was reported for all statistical results. Significant improvements were observed in depressive symptoms and self-injury behaviors after treatment (OSIC: W7: P = 0.009, Cohen's d=-1.682; HAMD-24: W3: P = 0.006, Cohen's d=-1.892; W7: P = 0.001, Cohen's d=-2.839; W11: P = 0.001, Cohen's d=-2.738; all P < 0.017). Electrophysiological analysis revealed that 77.5 Hz tACS might decrease Default network activity, increased Limbic, SalVAttn and Control network activity, and enhanced the functional connectivity in high-gamma band between Control and SalVAttn/Default network. A positive correlation was found between increased C100 activity in the SalVAttn (left frontal-insula) region and reduced HAMD-24 scores (R = 0.826, p = 0.043), this correlation analysis was based on a small sample size (n = 6), and the correlation coefficient was unstable, with results only for preliminary exploratory reference. 77.5 Hz tACS may alleviate NSSI symptoms in female adolescents potentially by regulating brain activity and functional connectivity in emotional-control networks.",
+    "journal": "BMC psychiatry",
+    "year": "2026",
+    "authors": [
+      "Hao W.",
+      "Ding X.",
+      "Ren K."
+    ],
+    "doi": "10.1186/s12888-026-07978-2",
+    "source": "PubMed",
+    "url": "https://doi.org/10.1186/s12888-026-07978-2",
+    "matched_keywords": [
+      "transcranial magnetic stimulation"
+    ],
+    "score": 12
+  },
+  {
+    "title": "Glycomic Profiling Reveals Enhanced Sialylation and Plasma-Derived Fibrinogen Accumulation in the Parkinson's Disease Cerebellum.",
+    "abstract": "Parkinson's disease (PD) is characterized by the degeneration of dopaminergic neurons in the substantia nigra, a key component of the basal ganglia. The cerebellum, which supports motor learning and cognition and forms a functional network with the basal ganglia, has been associated with both motor and non-motor symptoms of PD. N-glycosylation has been linked to neurodegeneration and alterations in cerebellar neuroimmune and synaptic regulation; however, the structural characteristics of cerebellar N-glycans remain unclear. In this study, we employed a comprehensive liquid chromatography (LC)-quadrupole-Orbitrap-tandem mass spectrometry (MS/MS)-based glycoproteomic approach to characterize N-glycans and N-glycopeptides in postmortem cerebellar tissues from neurologically normal (NM) and PD brains. Forty-two N-glycans were structurally identical but quantitatively distinct, with PD exhibiting increased sialylation (A2G2S2, A2G2S1, A2G1S1) and decreased mannosylation (M5). Glycoproteomic analysis revealed 11 N-glycopeptides in PD, six of which were unique to PD. Three PD-specific N-glycopeptides (DLQSLEDILHQVEN",
+    "journal": "Molecular neurobiology",
+    "year": "2026",
+    "authors": [
+      "Byeon H.",
+      "Jang L.",
+      "Kim J."
+    ],
+    "doi": "10.1007/s12035-026-05743-w",
+    "source": "PubMed",
+    "url": "https://doi.org/10.1007/s12035-026-05743-w",
+    "matched_keywords": [
+      "motor learning"
+    ],
+    "score": 12
+  }
+]
